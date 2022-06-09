@@ -1,0 +1,26 @@
+git commands to push code
+==========================
+
+step-1
+git status
+
+step-2
+git add <fileName>
+
+step-3
+git commit <messgae>
+
+step-4
+git push
+
+
+git clone repository
+====================
+
+step-1
+git clone <url of the repository>
+
+step-2
+git pull
+
+
